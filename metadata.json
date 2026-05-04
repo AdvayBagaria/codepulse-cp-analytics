@@ -1,0 +1,12 @@
+{
+  "name": "CodePulse: CP Analytics",
+  "description": "High-performance analytics for the competitive programming elite. Track, analyze, and optimize your growth across Codeforces, AtCoder, and LeetCode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Data visualization with Recharts",
+    "Multi-platform CP account integration",
+    "Performance analytics and weakness detection",
+    "Local-first data persistence",
+    "Recommendation engine for practice"
+  ]
+}

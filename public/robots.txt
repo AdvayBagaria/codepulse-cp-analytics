@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://advaybagaria.github.io/codepulse-cp-analytics/sitemap.xml
